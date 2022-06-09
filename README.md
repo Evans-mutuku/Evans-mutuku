@@ -8,14 +8,14 @@
 </div>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=manuarora700.manuarora700) -->
-<a href="https://www.linkedin.com/in/manuarora28" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/evans-mutuku-5407391b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!-- <a href="https://www.instagram.com/maninthere" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> -->
-<a href="https://www.facebook.com/Manuarora7000" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="http://www.manuarora.in" target="_blank">
-<img src="https://img.shields.io/static/v1?label=Website&message=manuarora.in&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
+<a href="https://www.facebook.com/evan.mutuku" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="http://melbite.com" target="_blank">
+<img src="https://img.shields.io/static/v1?label=Website&message=melbite.com&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
 </a>
 <a href="http://evansmutuku-24161.web.app/" target="_blank">
-<img src="https://img.shields.io/badge/Projects-72-yellow?&style=flat-square" alt="Projects"/>
+<img src="https://img.shields.io/badge/Projects-10+-yellow?&style=flat-square" alt="Projects"/>
 </a>
 <br>
 
@@ -23,11 +23,11 @@ Thanks for increasing my visitors count :p  <br>
 You have finally discovered my Github profile. 👋
 <br>
 
-I write about Technology, snippets and resources at my **[blog](https://evansify.com/blogs)**.
+I write about Technology, snippets and resources at my **[blog](https://melbite.com/)**.
 
 I've done a ton of **[projects](https://evansmutuku-24161.web.app/)** with various technologies, 
-View my **[resume](https://drive.google.com/file/d/1mNOz4acLUrgNxhaOzOXPnuXEWGursi1I/view)**, 
-Ask me anything **[here](https://github.com/manuarora700/manuarora700/issues/new)**, 
+View my **[resume](https://drive.google.com/file/d/1Q7V-WJmHhYTBLg8Nk4CefA1S6nL30LFo/view)**, 
+Ask me anything **[here](https://github.com/Evans-mutuku/Evans-mutuku/issues/new)**, 
 or **[email](mailto:evansnyamai98@gmai.com)** me. 
 <br>
 Happy Coding, my brothers! 💪🏽 <br>
