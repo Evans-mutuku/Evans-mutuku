@@ -51,6 +51,7 @@ Happy Coding, my brothers! 💪🏽 <br>
 <div align="center">
 
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Evans-mutuku)](https://git.io/streak-stats)
 <h3><strong>Just for the culture:</strong></h3>
 
 - 🔭 I’m currently working on: Fullstack development (Next JS, NodeJs and React) 
