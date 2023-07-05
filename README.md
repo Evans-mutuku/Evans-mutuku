@@ -30,7 +30,7 @@ View my **[resume](https://drive.google.com/file/d/1Q7V-WJmHhYTBLg8Nk4CefA1S6nL3
 Ask me anything **[here](https://github.com/Evans-mutuku/Evans-mutuku/issues/new)**, 
 or **[email](mailto:evansnyamai98@gmai.com)** me. 
 <br>
-Happy Coding, my brothers! 💪🏽 <br>
+Happy Coding, my fellow devs! 💪🏽 <br>
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=manuarora700&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Manu Arora's Github Stats"> -->
