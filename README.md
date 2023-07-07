@@ -20,7 +20,7 @@
 <br>
 
 Thanks for increasing my visitors count :p  <br>
-You have finally discovered my Github profile. 👋
+I just wanted to let you know that you have finally found my Github profile. 👋
 <br>
 
 I write about Technology, snippets, and resources at my **[blog](https://melbite.com/)**.
@@ -57,10 +57,10 @@ Happy Coding, my fellow devs! 💪🏽 <br>
 <h3><strong>Just for the culture:</strong></h3>
 
 
-- 🔭 I’m currently working on Fullstack development (Next JS, NodeJs and React) 
+- 🔭 I’m currently working on Fullstack development (Next JS, NodeJs, and React) 
 - 🌱 I’m currently learning: Complex algorithms
 - 👯 I’m looking to collaborate on: NextJS Projects and DevOps
-- 💬 Ask me about: Code, food, and life
+- 💬 Ask me about Code, food, and life
 - 📫 How to reach me: evansnyamai98@gmail.com
 
 <br>
