@@ -57,7 +57,7 @@ Happy Coding, my fellow devs! 💪🏽 <br>
 <h3><strong>Just for the culture:</strong></h3>
 
 
-- 🔭 I’m currently working on Fullstack development (Next JS, NodeJs, and React) 
+- 🔭 I’m currently working on Fullstack development (NextJS, NodeJs, and ReactJs) 
 - 🌱 I’m currently learning: Complex algorithms
 - 👯 I’m looking to collaborate on: NextJS Projects and Web3.0
 - 💬 Ask me about Code, food, and life
