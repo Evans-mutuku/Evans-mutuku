@@ -23,7 +23,7 @@ Thanks for increasing my visitors count :p  <br>
 You have finally found my GitHub profile. 👋
 <br>
 
-I write about Technology, snippets, and resources at my **[blog](https://melbite.com/)**.
+I write about Technology, snippets, and resources at my **[blog](https://melbite.com/)** with various topics.
 
 I've done a tone of **[projects](https://evansmutuku-24161.web.app/)** with various technologies, 
 Visit my blog **[blog](https://melbite.com/)** with various topics, 
