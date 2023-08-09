@@ -26,7 +26,6 @@ You have finally found my GitHub profile. 👋
 I write about Technology, snippets, and resources at my **[blog](https://melbite.com/)** with various topics.
 
 I've done a tone of **[projects](https://evansmutuku-24161.web.app/)** with various technologies, 
-Visit my blog **[blog](https://melbite.com/)** with various topics, 
 View my **[resume](https://drive.google.com/file/d/1Q7V-WJmHhYTBLg8Nk4CefA1S6nL30LFo/view)**, 
 Ask me anything **[here](https://github.com/Evans-mutuku/Evans-mutuku/issues/new)**, 
 or **[email](mailto:evansnyamai98@gmai.com)** me. 
