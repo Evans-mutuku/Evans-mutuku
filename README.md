@@ -19,7 +19,7 @@
 </a>
 <br>
 
-Thanks for increasing my visitors count  <br>
+Thanks for increasing my visitors count.  <br>
 You have finally found my GitHub profile. 👋
 <br>
 
@@ -35,7 +35,7 @@ Happy Coding, my fellow devs! 💪🏽 <br>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=manuarora700&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Manu Arora's Github Stats"> -->
 
-<h3><strong>Languages and Tools That I Use</strong></h3>  
+<h3><strong>Languages and Tools That I Use.</strong></h3>  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -59,8 +59,8 @@ Happy Coding, my fellow devs! 💪🏽 <br>
 
 - 🔭 I’m currently working on Fullstack development (NextJs, NodeJs, and ReactJs) 
 - 🌱 I’m currently learning: Advanced cloud computing.
-- 👯 I’m looking to collaborate on: NextJs Projects and Web3.0 based projects.
-- 💬 Ask me about Code, food, Space crafts, and life
+- 👯 I’m looking to collaborate on: NextJs Projects and Web 3.0 based projects.
+- 💬 Ask me about Code, food, Space crafts, and life.
 - 📫 How to reach me: evansnyamai98@gmail.com
 
 <br>
