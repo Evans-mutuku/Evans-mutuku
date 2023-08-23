@@ -19,7 +19,7 @@
 </a>
 <br>
 
-Thanks for increasing my visitors count.  <br>
+Thanks for increasing my visitors Count.  <br>
 You have finally found my GitHub profile. 👋
 <br>
 
