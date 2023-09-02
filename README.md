@@ -24,6 +24,7 @@ You have finally found my GitHub profile. 👋
 <br>
 
 I write about Technology, Snippets, and Resources at my **[blog](https://melbite.com/)** with various topics.
+
 Checkout my new website **[ProgSkill](https://progskill.com/)**
 
 I've done a tone of **[projects](https://evansmutuku-24161.web.app/)** with various technologies, 
