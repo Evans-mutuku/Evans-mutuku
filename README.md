@@ -63,7 +63,7 @@ Happy Coding, my fellow devs! 💪🏽 <br>
 - 🌱 I’m currently learning: Advanced cloud computing and typescript.
 - I'm currently learning Python.
 - I'm really into the data science field 
-- 👯 I’m looking to collaborate on: NextJs Projects and Web 3.0-based projects.
+- 👯 I’m looking to collaborate on: NextJs projects.
   
 - 💬 Ask me about Code, food, Space crafts, and life.
 - 📫 How to reach me: evansnyamai98@gmail.com
