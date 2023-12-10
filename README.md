@@ -60,7 +60,7 @@ Happy Coding, my fellow devs! 💪🏽 <br>
 
 
 - 🔭 I’m currently working on Fullstack development (NextJs, NodeJs, and ReactJs) 
-- 🌱 I’m currently learning: Advanced cloud computing and typescript.
+- 🌱 I’m currently learning: Advanced Cloud computing and Typescript.
 - I'm currently learning Python & Django.
 - I'm really into the data science field 
 - 👯 I’m looking to collaborate on: NextJs projects.
