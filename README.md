@@ -23,7 +23,7 @@ Thanks for increasing my GitHub visitors Count.  <br>
 You have finally found my GitHub profile. 👋
 <br>
 
-I write about Technology, Snippets, and Resources at my **[blog](https://melbite.com/)** with various topics.
+I write about Technology, Snippets, and Resources at my **[blog](https://melbite.com/)** with various topics. Follow me on GitHub.
 
 Checkout my new website **[ProgSkill](https://progskill.com/)**
 
