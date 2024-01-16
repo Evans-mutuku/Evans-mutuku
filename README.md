@@ -55,7 +55,6 @@ Happy Coding, my fellow devs! 💪🏽 <br>
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Evans-mutuku&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Evans-mutuku)](https://git.io/streak-stats)
 
 <h3><strong>Just for the culture:</strong></h3>
 
