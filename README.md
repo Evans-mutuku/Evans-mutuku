@@ -64,11 +64,12 @@ Happy Coding, my fellow devs! 💪🏽 <br>
 - 🌱 I’m currently learning: Advanced Cloud computing and Typescript.
 - I'm currently learning Python & Django.
 - I'm really into the data science field 
-- 👯 I’m looking to collaborate on: NextJs projects.
+- 👯 I’m looking to collaborate on NextJs projects.
   
 - 💬 Ask me about Code, food, Space crafts, and life.
 - 📫 How to reach me: evansnyamai98@gmail.com
-- 📫 How to reach me: evans@progskill.com
+- 📫 How to reach me: progskill1@gmail.com
+- - 📫 How to reach me: blog.melbite@gmail.com
 - WhatsApp me through +254791486125
 
 <br>
