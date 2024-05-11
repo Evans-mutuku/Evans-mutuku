@@ -20,14 +20,14 @@
 <br>
 
 Thanks for increasing my GitHub visitors Count in 2024. 
-l love you all❤️ <br>
+l love you all ❤️ <br>
 
 You have finally found my GitHub profile. 👋
 <br>
 
 I write about Technology, Code Snippets, and Resources at my **[blog](https://melbite.com/)** with various topics. Follow me on GitHub.
 
-Checkout my new website **[ProgSkill](https://progskill.com/)**
+Checkout my new software development courses website **[ProgSkill](https://progskill.com/)**
 
 I've done a tone of **[projects](https://evansmutuku-24161.web.app/)** with various technologies, 
 View my **[resume](https://drive.google.com/file/d/1Q7V-WJmHhYTBLg8Nk4CefA1S6nL30LFo/view)**, 
