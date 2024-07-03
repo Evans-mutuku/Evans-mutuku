@@ -19,8 +19,8 @@
 </a>
 <br>
 
-Thanks for increasing my GitHub visitors Count in June 2024. <br>
-l love you all ❤️. <br>
+Thanks for increasing my GitHub visitors Count in July 2024. <br>
+l Love you all ❤️. <br>
 
 You have finally found my GitHub profile. 👋
 <br>
