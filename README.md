@@ -22,7 +22,7 @@
 <br>
 
 Thanks for increasing my GitHub visitors Count in October 2024. <br>
-I love you all ❤️. <br>
+I love you all ❤️ <br>
 
 You have finally found my GitHub profile. 👋
 <br>
