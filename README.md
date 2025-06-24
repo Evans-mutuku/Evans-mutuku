@@ -63,11 +63,10 @@ Happy Coding, My Fellow Devs! 💪🏽 <br>
 <h3><strong>Just for the culture:</strong></h3>
 
 - 🔭 I’m currently working on Fullstack development (NextJs, NodeJs, ReactJs) 
-- 🌱 I’m currently learning: Advanced Cloud computing and Typescript.
+- 🌱 I’m currently learning: Advanced Cloud Computing and TypeScript.
 - I'm currently learning Python & Django.
 - Currently learning Machine Learning and AI
 - I'm really into the data science field 
-- 👯 I’m looking to collaborate on NextJs projects.
   
 - 💬 Ask me about Code, food, Space crafts, and life.
 - 📫 How to reach me: evansnyamai98@gmail.com
