@@ -67,7 +67,6 @@ Happy Coding, My Fellow Devs! 💪🏽 <br>
 - I'm currently learning Python & Django.
 - Currently learning Machine Learning and AI
 - I'm really into the data science field 
-  
 - 💬 Ask me about Code, food, Space crafts, and life.
 - 📫 How to reach me: evansnyamai98@gmail.com
 - 📫 How to reach me: progskill1@gmail.com
