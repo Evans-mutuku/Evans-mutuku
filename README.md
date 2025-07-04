@@ -62,7 +62,7 @@ Happy Coding, My Fellow Devs! 💪🏽 <br>
 
 <h3><strong>Just for the culture:</strong></h3>
 
-- 🌱 I’m currently learning: Advanced Cloud Computing and TypeScript.
+- 🌱 I’m currently learning: Advanced Cloud Computing and TypeScript
 - Currently learning Machine Learning and AI
 - I'm really into the data science field 
 - 💬 Ask me about Code, food, Space crafts, and life.
