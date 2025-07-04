@@ -68,7 +68,7 @@ Happy Coding, My Fellow Devs! 💪🏽 <br>
 - 💬 Ask me about Code, food, Space crafts, and life.
 - 📫 How to reach me: evansnyamai98@gmail.com
 - 📫 How to reach me: progskill1@gmail.com
-- - 📫 How to reach me: blog.melbite@gmail.com
+- 📫 How to reach me: blog.melbite@gmail.com
 - WhatsApp me through +254791486125
 
 <br>
