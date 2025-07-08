@@ -60,7 +60,7 @@ Happy Coding, My Fellow Devs! 💪🏽 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Evans-mutuku&theme=dark)](https://git.io/streak-stats)
 
-<h3><strong>Just for the culture:</strong></h3>
+<h3><strong>Just for the culture 😊:</strong></h3>
 
 - 🌱 I’m currently learning: Advanced Cloud Computing and TypeScript
 - Currently learning Machine Learning and AI
