@@ -24,7 +24,7 @@
 Thanks for increasing my GitHub visitors count in 2025 <br>
 I love you all ❤️ <br>
 
-You have finally found my GitHub profile. 👋
+You have finally found my GitHub profile. 👋😊
 <br>
 
 I write about Technology, Code Snippets, and Resources at my **[blog](https://melbite.com/)** with various topics. Follow me on GitHub.
