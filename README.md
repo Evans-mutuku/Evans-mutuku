@@ -71,6 +71,8 @@ Happy Coding, My Fellow Devs! 💪🏽 <br>
 - 📫 How to reach me: blog.melbite@gmail.com
 - WhatsApp me through +254791486125
 
+Check out my latest open-source project: [Mossara Drawing Tool]()
+
 <br>
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
 
