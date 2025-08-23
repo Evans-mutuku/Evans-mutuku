@@ -71,7 +71,7 @@ Happy Coding, My Fellow Devs! 💪🏽 <br>
 - 📫 How to reach me: blog.melbite@gmail.com
 - WhatsApp me through +254791486125
 
-Check out my latest open-source project: [Mossara Drawing Tool]()
+Check out my latest open-source project: [Mossara Drawing Tool](https://github.com/PLPCommunity/powersync.git)
 
 <br>
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
