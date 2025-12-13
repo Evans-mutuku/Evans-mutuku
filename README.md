@@ -16,6 +16,9 @@
 <a href="http://progskill.com" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Website&message=progskill.com&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
 </a>
+<a href="http://ciraiq.com" target="_blank">
+<img src="https://img.shields.io/static/v1?label=Website&message=progskill.com&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
+</a>
 <a href="http://evansmutuku-24161.web.app/" target="_blank">
 <img src="https://img.shields.io/badge/Projects-10+-yellow?&style=flat-square" alt="Projects"/>
 </a>
