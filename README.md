@@ -82,5 +82,5 @@ Check out my latest open-source project: [Mossara Drawing Tool](https://github.c
 
 Thanks to [ABSphreak](https://www.github.com/manuarora700 ) for letting me know about this cool feature.
 
-I love you all ❤️... 
+I love you all ❤️..
 ## Happy Coding 2025
