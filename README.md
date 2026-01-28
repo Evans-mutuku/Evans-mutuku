@@ -24,7 +24,7 @@
 </a>
 <br>
 
-Thanks for increasing my GitHub visitors count in 2025<br>
+Thanks for increasing my GitHub visitors count in 2026<br>
 <br>
 
 You have finally found my GitHub profile. 👋😊
