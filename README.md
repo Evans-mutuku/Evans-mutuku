@@ -1,4 +1,4 @@
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Happy new year 2026, My  good People, it's my birthday month F𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s/>!<img src="https://github.com/manuarora700/manuarora700/blob/master/gifs/Hi.gif" width="30px"> </h1>
+<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Happy new year 2026, My  good People, F𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s/>!<img src="https://github.com/manuarora700/manuarora700/blob/master/gifs/Hi.gif" width="30px"> </h1>
 
 <div align="center" width="50">
 
