@@ -40,6 +40,7 @@ Ask me anything **[here](https://github.com/Evans-mutuku/Evans-mutuku/issues/new
 or **[email](mailto:evansnyamai98@gmai.com)** me. 
 <br>
 Happy Coding, My Fellow Devs! 💪🏽 <br>
+Anyway, I'm looking for a Job
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=manuarora700&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Manu Arora's Github Stats"> -->
