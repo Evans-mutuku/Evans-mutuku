@@ -25,7 +25,7 @@ Try CiraIQ Today: https://ciraiq.com
 </a>
 <br>
 
-Thanks for increasing my GitHub visitors count in 2026<br>
+Thanks for increasing my GitHub visitors count in 2026. Looking forward to 2027<br>
 <br>
 
 You have finally found my GitHub profile. 👋😊
