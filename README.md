@@ -1,6 +1,8 @@
 <h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Good People, F𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s/>!<img src="https://github.com/manuarora700/manuarora700/blob/master/gifs/Hi.gif" width="30px"> </h1>
 
-Try CiraIQ Today: https://ciraiq.com
+Try CiraIQ Today:
+https://ciraiq.com
+https://blog.ciraiq.com
 <div align="center" width="50">
 
 <!-- <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/> -->
